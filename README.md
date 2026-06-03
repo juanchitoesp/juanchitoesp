@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=juanchitoesp&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+
 
 ### 💡 What I bring to the table
 
@@ -144,7 +144,7 @@ Not just a developer — a product thinker who writes production-grade code.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=juanchitoesp&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
