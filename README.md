@@ -14,8 +14,8 @@ I bridge the gap between **business problems** and **engineering solutions**.
 Not just a developer — a product thinker who writes production-grade code.
 
 - 🏗️ Architect of CLM + ERP systems (**Lexo Tech**)
-- 🛒 Builder of high-performance e-commerce platforms (**Royale Coffee**)
-- ⚡ Automation-first mindset with n8n, Make & AI tooling
+- 🛒 Builder of high-performance e-commerce platforms (**Royale Luxury Coffee**)
+- ⚡ Automation-first mindset with , Make & AI tooling
 - 🎯 Clean, scalable, premium-aesthetic products
 
 <br clear="right"/>
@@ -97,18 +97,17 @@ Not just a developer — a product thinker who writes production-grade code.
       <h3>🧾 Lexo Tech</h3>
       <p>End-to-end <b>CLM + ERP</b> platform for contract management and electronic invoicing. Features lifecycle state machines, budget tracking and resource allocation per contract.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+         >
+        >
       </p>
     </td>
     <td width="50%">
       <h3>☕ Royale Luxury Coffee</h3>
       <p>Specialty <b>e-commerce</b> platform with high-performance architecture and dynamic shipping cost engine based on Colombian department-level logistics.</p>
       <p>
-        <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        >
+        >
+        >
       </p>
     </td>
   </tr>
@@ -117,9 +116,9 @@ Not just a developer — a product thinker who writes production-grade code.
       <h3>🌐 Coffee Flow Colombia</h3>
       <p>Landing page infrastructure and <b>DNS architecture</b> optimized via Cloudflare for high-traffic events. Focus on performance and zero-downtime deployments.</p>
       <p>
-        <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <
+        >
+        >
       </p>
     </td>
     <td width="50%">
