@@ -125,7 +125,7 @@ Not just a developer — a product thinker who writes production-grade code.
       <h3>🔜 Next</h3>
       <p>Currently exploring new SaaS opportunities in the <b>B2B Colombian market</b> combining automation, AI tooling and enterprise-grade backend architecture.</p>
       <p>
-        <img src="https://img.shields.io/badge/Open_to_collaborate-brightgreen?style=flat-square" />
+        <
       </p>
     </td>
   </tr>
